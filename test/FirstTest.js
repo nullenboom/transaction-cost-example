@@ -1,6 +1,4 @@
 const OnDemand = artifacts.require("./AvgOnDemand.sol");
-
-const OnDemand = artifacts.require('./AvgOnDemand.sol')
 	
 contract('FirstScenario', async(accounts)=> {
 	it('First Test ', async () => {
